@@ -1,0 +1,8 @@
+clear all
+clc
+
+%Preallocamento
+I=zeros(1,26);
+
+%Inizializzazione della formula ricorsiva
+I(1) = (exp(1)-1)/exp(1);
