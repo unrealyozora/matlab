@@ -14,4 +14,4 @@ end
 
 %Grafico in scala semilogaritmica
 figure(1)
-semilogy(1:26, I, 'ro-')
+semilogy(1:26, I, 'r-o')
